@@ -1,62 +1,60 @@
-# JCB Road Drive 
+# JCB Road Drive
 
-hey! this is JCB Road Drive, a small 2D driving game that i made using Python and Pygame.
+hey! this is JCB Road Drive, a small 2D driving game made using Python and Pygame.
 
-the idea behind this game was to make something fun and interactive while learning more about game development. you control a JCB, drive along the road, avoid obstacles and collect coins. i also added some funny politician characters to make things a bit more interesting
+in this game, you control a JCB on a road, avoid obstacles and collect coins to increase your score. there are also some funny politician characters in the game to make it more fun!
 
-## what can you do in the game?
+## here's what you can do
 
-- drive and control a JCB
-- move along a curved road
-- avoid different obstacles
+- control and move the JCB
+- drive on a curved road
+- avoid obstacles
 - collect coins and increase your score
-- see your speed and distance while playing
-- experience collision and game over
-- enjoy different sound effects
-- restart the game and try again
+- check your speed and distance
+- enjoy sound effects
+- restart the game after a collision
 
-## how i made it
+## HOW THIS WAS MADE
 
-i used Python and Pygame to build this game.
+this game was made using Python and Pygame.
 
-i started with the basic JCB movement and road, and then kept adding new features one by one, like obstacles, coins, scoring and sound effects.
+i added JCB movement, road, obstacles, coins, scoring and sound effects. while making this game, i learned about game loops, keyboard controls, collision detection, random spawning and object movement.
 
-while working on it, i got to learn about game loops, keyboard controls, collision detection, random spawning and object movement.
+i also faced some bugs with movement, collisions and sounds, but fixing them helped me understand things better.
 
-of course, everything didn't work perfectly on the first try. i faced a few bugs while working on movement, collisions and sounds, but fixing them was a good learning experience.
+## HOW TO RUN THE GAME
 
-## how to run it 
+1. Clone the repository to your device
 
-first, clone the repository:
+git clone https://github.com/hirdyanshu1/healix
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
 
-go inside the project folder:
+2. Go inside the project folder
 
-```bash
+
 cd JCB-Road-Drive
-```
 
-install Pygame:
 
-```bash
+3. Install Pygame
+
+
 pip install pygame
-```
 
-now run the game:
 
-```bash
+4. Run the game
+
+
 python main.py
-```
 
-## controls
 
-- use the configured movement keys to control the JCB
+and enjoy driving your JCB
+
+## CONTROLS
+
+- use the configured movement keys to move the JCB
 - press `M` to mute or unmute the sound
 - press `R` to restart after game over
 
-## AI disclosure
+## AI DISCLOSURE
 
-i used AI as a helping tool during development, mainly for understanding Pygame concepts, debugging errors and getting ideas for new features.
+AI was used as a helping tool during this project. i used it to understand some Pygame concepts, fix errors and get ideas for adding features. the game development, testing and changes were part of my own work.
