@@ -32,7 +32,7 @@ git clone https://github.com/hirdyanshu1/healix
 2. Go inside the project folder
 
 
-cd JCB-Road-Drive
+cd Healix
 
 
 3. Install Pygame
